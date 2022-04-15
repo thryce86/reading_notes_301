@@ -12,9 +12,19 @@ How do we target what the user is entering if we have an event handler on an inp
 see above
 
 
+
 Why would we use a ternary operator?
 
+Simpler code
 
-
-
+  
 Rewrite the following statement using a ternary statement:
+x === y ? true : false
+
+![image](https://user-images.githubusercontent.com/100101108/163587908-6d36085a-33e8-4d1a-a77d-b4d4d58fa642.png)
+
+![image](https://user-images.githubusercontent.com/100101108/163587987-dddaa9a1-6039-47fe-9fd7-2a5429d2220f.png)
+
+![image](https://user-images.githubusercontent.com/100101108/163588091-b8692242-05ef-48ca-8709-6c0652312746.png)
+
+
