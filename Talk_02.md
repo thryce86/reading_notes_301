@@ -9,3 +9,5 @@ Eve Denison
 - Dont be a jerk. 
 - Know triggers
 - Apparently she is crabby after not getting blood sugar?
+- Try to have a positive outlook before talking to someone.
+- 
